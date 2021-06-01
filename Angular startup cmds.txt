@@ -1,0 +1,25 @@
+ npm install
+
+ E:\JavaScript\webpack-babel-esm-template> npm install -g yarn
+ 
+ 
+ C:\Users\ADITYA GATTU\AppData\Roaming\npm\yarn -> C:\Users\ADITYA GATTU\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js
+ 
+ yarn serve
+ 
+ 
+ Angular Installation :
+ 
+ 
+node -v
+npm install @angular/cli
+ 
+ng new my-first-project
+cd my-first-project
+ng serve
+
+create a component :
+
+ng g c about -it -is --skipTests=true 
+
+ 
